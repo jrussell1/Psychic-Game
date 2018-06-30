@@ -2,10 +2,21 @@
     background-color: black;
 }
 
+
 .jumbotron {
-    background-image: url('C:\Users\jorda\OneDrive\Desktop\Psychic-Game\assets\Images\hangman-baseball.jpg');
+    background: url('https://alemanyathletics.org/images/2016/12/4/Field.jpg?width=1128&height=635&mode=crop&anchor=topcenter');
     background-size: cover;
     margin-top: 20px;
+    text-align: right;
+    font-family: 'Galada', cursive; 
+}
+
+.display-4 {
+    color: rgba(31, 34, 189, 0.993);
+}
+
+.lead {
+    color: white;
 }
 
 .card {
