@@ -1,6 +1,6 @@
-#Hangman Baseball
+# Hangman Baseball
 
 ![alt text](./assets/Images/Capture.PNG)
 
-##Overview
+## Overview
 A classic game with a baseball twist. The app will run in your browser, and features dynamically updated HTML and CSS powered by the JavaScript code.
